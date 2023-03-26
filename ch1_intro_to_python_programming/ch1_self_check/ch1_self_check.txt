@@ -1,0 +1,7 @@
+Solutions to Ch.1 Introduction to Python Programming Self-Check Problems
+
+Section 1.1: Basic Computing Concepts
+
+Q1.1.1. Why do computers use binary numbers?
+A1.1.1. Computers use binary numbers because this system offers a more efficient way for electronic devices to distinguish 
+between their on (1) and off (0) states.
